@@ -1,4 +1,4 @@
-This is my first Web Portfolio Page , created by me . 
+This is my first Web Portfolio Website , created by me. 
 
 Hope you like it.
 
